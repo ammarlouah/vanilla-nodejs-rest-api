@@ -20,5 +20,8 @@
   "homepage": "https://github.com/ammarlouah/vanilla-nodejs-rest-api#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
   }
 }
